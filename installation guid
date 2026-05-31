@@ -1,0 +1,6 @@
+#https://www.tutorialspoint.com/fastapi/fastapi_introduction.htm
+
+#required things to install
+pip3 install fastapi
+pip3 install uvicorn
+pip3 freeze
