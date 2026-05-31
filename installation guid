@@ -10,3 +10,8 @@ pip3 freeze
 
 
 uvicorn main:app --reload
+
+
+#utube video
+
+https://www.youtube.com/watch?v=PzIF1IAxzaw
